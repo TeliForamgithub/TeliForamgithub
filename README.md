@@ -1,5 +1,8 @@
-<h1 align="center">Hi , I'm Teli Foram</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<img align ="center" alt="coding" height="200" width="1100" src="https://user-images.githubusercontent.com/63138398/236623085-7a6e89ca-0add-4a5e-b91d-2ef5b36b15b1.png">
+
+<h1 align="center">Badminton 🏸 | Python 💙 | Reading 📕 </h1>
+<h2 align="center"> I'm Teli Foram</h2>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img align ="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
