@@ -1,6 +1,6 @@
 <img align ="center" alt="coding" height="200" width="1100" src="https://user-images.githubusercontent.com/63138398/236623085-7a6e89ca-0add-4a5e-b91d-2ef5b36b15b1.png">
 
-<h1 align="center">Badminton 🏸 | Python 💙 | Reading 📕 </h1>
+<h1 align="center"> C# 💙| SQL | Reading 📕 </h1>
 <h2 align="center"> I'm Teli Foram</h2>
 <h3 align="center">A passionate Software Engineer</h3>
 
